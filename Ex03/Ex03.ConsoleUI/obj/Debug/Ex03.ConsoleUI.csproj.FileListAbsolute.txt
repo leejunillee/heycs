@@ -1,0 +1,13 @@
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\adile\Desktop\Ex03-312230667\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
